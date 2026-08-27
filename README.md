@@ -151,6 +151,16 @@ All models save results in a unified format:
 
 ## Citation
 ```bibtex
+@inproceedings{xu2026scclubench,
+  title={scclubench: Comprehensive benchmarking of clustering algorithms for single-cell rna sequencing},
+  author={Xu, Ping and Wang, Zaitian and Wang, Zhirui and Li, Pengjiang and Wang, Jiajia and Zhang, Ran and Wang, Pengfei and Zhou, Yuanchun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={2},
+  pages={1364--1372},
+  year={2026}
+}
+
 @article{xu2025scunified,
   title={scUnified: An AI-Ready Standardized Resource for Single-Cell RNA Sequencing Analysis},
   author={Xu, Ping and Wang, Zaitian and Wang, Zhirui and Li, Pengjiang and Zhang, Ran and Li, Gaoyang and Xie, Hanyu and Wang, Jiajia and Zhou, Yuanchun and Wang, Pengfei},
